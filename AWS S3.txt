@@ -1,0 +1,37 @@
+S3 - Simple storage Service
+
+S3 provides to the developers and IT teams with secure,durable,high scalable object storage.
+
+S3 is easy to use with simple web service interface to store and retreive any amount of data from anywhere on the web
+
+Its a safe place to store your files
+
+we can access globally
+
+By default s3 bucket ranged from 0 bytes to 5TB.
+
+and also featured with unlimited storage
+
+S3 built by 99.99% availability for s3 platform
+
+Amazon guarantees for 99.99% data availability
+
+for S3 99.999999999% durability for s3 information
+
+Features are
+
+Buckets - A bucket is a container for Objects
+
+Objects - are fundamental entities photos,media,text files,data stores in s3
+
+Keys - keys are the unique identifier for an object within the bucket
+
+Regions - you can choose geographical aws region where s3 will store the buckets you create.
+
+Creating bucket
+
+Accessing bucket
+
+Empty Bucket
+
+Delete bucket

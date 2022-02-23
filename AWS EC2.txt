@@ -1,0 +1,59 @@
+==>Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, 
+database storage, content delivery and other functionality to help businesses scale and grow. ... 
+
+Securely store all your files on the cloud so you can access them from anywhere
+
+The platform is developed with a combination of 
+-->Infrastructure as a service (IaaS) 
+-->Platform as a service (PaaS)  
+-->Software as a service (SaaS) 
+
+IaaS: cloud-based services, pay-as-you-go for services such as storage, networking, and virtualization.
+
+Ex- Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE)
+
+PaaS: hardware and software tools available over the internet. 
+
+Ex - Google App Engine,Windows Azure
+
+SaaS: software that’s available via a third-party over the internet.
+
+Ex - Google Apps,Salesforce
+
+Three Deployment Modules in Cloud.
+
+Public Cloud - IT Services Delivered through internet and Shared across organisations
+
+Private Cloud - Dedicated within organisation and not sharing cloud computing resources with any other organisation.
+
+Hybrid Cloud - its an infrastructure that combines both public and private cloud solutions.
+
+GUI - Graphical User Interface - Browser - email id/Password/ MFA - Multi factor Authentication
+
+CLI - Command Line interface - linux machine - Access key Pair/Access secret
+
+
+EC2 - Elastic Compute Cloud
+
+Allows us to create machines
+
+21 regions
+
+3 availability Zones in each region.
+
+1 - Selecting Region
+
+2 - AMI selection - AMAZON Machine Image - linux vm or windows machine
+
+3 - Instance types 
+
+4 - Attach Storage
+
+5 - Tags
+
+6 - Security Groups
+
+7 - Keypair
+
+Putty  - Putty gen - Pem file was downloaded - we need to convert as PPK(Private Key)
+

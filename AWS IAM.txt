@@ -1,0 +1,33 @@
+IAM - Identity & Access Management
+
+It helps to Securely Control Access on AWS
+
+ROOT User - Has Unlimited Privilages and all permissions
+
+IAM User - only by default Ec2 permissions
+
+Roles - Delegate access to users,applications or services
+
+Policies - Collections of permissions applied to user or group
+
+Permissions - Actions like Reboot,Delete,Start,Stop,Terminate
+
+
+Four Major Areas
+
+Authentication - USER ID/Passwords... Session management,Password Service
+
+Authorization - Area that determines whether a user permitted to access particular resource
+
+User Management - It will manage lifespan of account based on user activities
+
+Central User Repository - stores and delivers information to verify credentials submitted from clients
+
+Policies - 3 types
+
+Amazon policies - AWS has policies which already present in Console
+
+Customer Managed policies - As per client Requirements 
+
+In line policy - which we'll create as per our needs. SYSOPS and Devops
+
